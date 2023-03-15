@@ -45,6 +45,7 @@
     "vite": "^2.9.0",
     "vite-plugin-glob": "^0.2.6",
     "vite-plugin-style-import": "^1.4.1",
+    "vitest": "^0.29.2",
     "vue-tsc": "^0.29.8"
   }
 }
